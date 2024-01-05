@@ -37,7 +37,6 @@ Our mission is to collaborate, innovate, and share our knowledge and experiences
 
 ### Contact Us
 For collaborations, inquiries, or just to say hello, feel free to reach out to us:
-- Email: [indextree@example.com](mailto:indextree@example.com)
-- Email: [000wan@example.com](mailto:000wan@example.com)
+- indextree: [brilliantepoch22@gmail.com](mailto:brilliantepoch22@gmail.com)
+- 000wan: [0wankweon@kaist.ac.kr](mailto:0wankweon@kaist.ac.kr)
 
----
