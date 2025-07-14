@@ -6,14 +6,14 @@ order: 4
 <div class="container">
   <header>
     <h1>Cho Changmin</h1>
-    <p><a href="mailto:brilliantepoch22@gmail.com">brilliantepoch22@gmail.com</a> • +82 10 5080 6605</p>
+    <p><a href="mailto:brilliantepoch22@gmail.com">brilliantepoch22@gmail.com</a>, +82 10 5080 6605</p>
   </header>
 
   <div class="card">
     <h2>Career Objective</h2>
     <p>
-      수학(대수학·대수적 위상수학)에 깊은 관심을 가지고 있으며, 암호학(Polynomial Commitment 리뷰) 및
-      Folding Schemes(Nova, LatticeFold, Neo) 연구 경험이 풍부합니다. 또한 Coq·Lean 4 기반 Formal Verification에도
+      수학(대수학, pairing)에 큰 관심을 가지고 있으며, 암호학(일반적인 암호학, Polynomial Commitment 코드 리뷰) 및
+      Folding Schemes(Nova, LatticeFold, Neo) 연구 경험이 있습니다. 또한 Coq, Lean 4 기반 Formal Verification에도
       흥미와 실무 경험이 있습니다.
     </p>
   </div>
@@ -43,10 +43,10 @@ order: 4
     <div class="timeline-item">
       <h3>Ethereum Foundation – R&D in FHE &amp; ZKP</h3>
       <div class="date">Jan 2024 – Dec 2024</div>
-      <p>완전 동형 암호 및 영지식 증명 연구·개발</p>
+      <p>완전 동형 암호 및 영지식 증명 연구 · 개발</p>
     </div>
     <div class="timeline-item">
-      <h3>Mina Foundation – Researcher</h3>
+      <h3>Mina Foundation – Grantee</h3>
       <div class="date">Jan 2025 – Mar 2025</div>
       <p>행렬 연산 라이브러리 제작 및 테스트</p>
     </div>
@@ -66,7 +66,7 @@ order: 4
         <li>Advanced: C++, Python</li>
         <li>Intermediate: Git, Rust</li>
         <li>Beginner: Go, Coq, Lean 4</li>
-        <li>Cryptography: ZK-SNARKs, STARKs, FHE, Folding Schemes</li>
+        <li>Expertise: Cryptography(General) ZK-SNARKs, STARKs, FHE, Folding Schemes, Data Structures, Algorithms</li>
       </ul>
     </div>
     <div class="card">
