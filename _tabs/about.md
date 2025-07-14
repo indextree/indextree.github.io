@@ -1,5 +1,6 @@
 ---
-title: "About me"
+icon: fas fa-info-circle
+order: 4
 ---
 
 <style>
