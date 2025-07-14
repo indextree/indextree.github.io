@@ -27,7 +27,7 @@ order: 4
     </div>
     <div>
       <h3>Nethermind – Intern</h3>
-      <div">Feb 2025 – May 2025</div>
+      <div>Feb 2025 – May 2025</div>
       <p>Formal Verification 및 Folding Scheme 리서치</p>
     </div>
     <div>
