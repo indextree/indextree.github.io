@@ -1,5 +1,5 @@
 ---
-title: "Cho Changmin | 이력서"
+title: "About me"
 ---
 
 <style>
@@ -108,7 +108,6 @@ footer {
   
   <section class="card">
     <h2>Work Experience</h2>
-    <p>
     <div class="timeline-item">
       <h3>Stellar Development Foundation – Grantee</h3>
       <div class="date">June 2025 – November 2025</div>
