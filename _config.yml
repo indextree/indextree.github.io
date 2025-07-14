@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: FHE Blog # the main title
+title: indextree's blog # the main title
 
-tagline: FHE & Bootstrapping Stuffs # it will display as the sub-title
+tagline: Blog by indextree # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Some stuffs related to FHE, Bootstrapping stuffs. Use for study.
+  About personal thinkings & myself
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://indextree.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: indextree # change to your github username
 
 twitter:
-  username: dncopt # change to your twitter username
+  username: poly_hedra_ # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: brilliantepoch22@google.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/dncopt # change to your twitter homepage
+    - https://twitter.com/poly_hedra_ # change to your twitter homepage
     - https://github.com/indextree # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
