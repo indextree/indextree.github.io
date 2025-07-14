@@ -3,13 +3,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div class="container">
+<div>
   <header>
     <h1>Cho Changmin</h1>
     <p><a href="mailto:brilliantepoch22@gmail.com">brilliantepoch22@gmail.com</a>, +82 10 5080 6605</p>
   </header>
 
-  <div class="card">
+  <div>
     <h2>Career Objective</h2>
     <p>
       수학(대수학, pairing)에 큰 관심을 가지고 있으며, 암호학(일반적인 암호학, Polynomial Commitment 코드 리뷰) 및
@@ -18,49 +18,49 @@ order: 4
     </p>
   </div>
 
-  <section class="timeline">
+  <section>
     <h2>Work Experience</h2>
-    <div class="timeline-item">
+    <div>
       <h3>Stellar Development Foundation – Grantee</h3>
-      <div class="date">Jun 2025 – Nov 2025</div>
+      <div>Jun 2025 – Nov 2025</div>
       <p>Stellar Soroban Verifier Track (NRG #4) 참여</p>
     </div>
-    <div class="timeline-item">
+    <div>
       <h3>Nethermind – Intern</h3>
-      <div class="date">Feb 2025 – May 2025</div>
+      <div">Feb 2025 – May 2025</div>
       <p>Formal Verification 및 Folding Scheme 리서치</p>
     </div>
-    <div class="timeline-item">
+    <div>
       <h3>Alpha273 – Development Team</h3>
-      <div class="date">Aug 2024 – Sep 2024</div>
+      <div>Aug 2024 – Sep 2024</div>
       <p>REST API 기반 아비트라지 시스템 설계·테스트</p>
     </div>
-    <div class="timeline-item">
+    <div>
       <h3>SCVSoft – Developer</h3>
-      <div class="date">May 2024 – Jun 2024</div>
+      <div>May 2024 – Jun 2024</div>
       <p>CUDA 최적화 및 블록체인 트랜잭션 데이터 마이닝</p>
     </div>
-    <div class="timeline-item">
+    <div>
       <h3>Ethereum Foundation – R&D in FHE &amp; ZKP</h3>
-      <div class="date">Jan 2024 – Dec 2024</div>
+      <div>Jan 2024 – Dec 2024</div>
       <p>완전 동형 암호 및 영지식 증명 연구 · 개발</p>
     </div>
-    <div class="timeline-item">
+    <div>
       <h3>Mina Foundation – Grantee</h3>
-      <div class="date">Jan 2025 – Mar 2025</div>
+      <div>Jan 2025 – Mar 2025</div>
       <p>행렬 연산 라이브러리 제작 및 테스트</p>
     </div>
   </section>
 
-  <section class="card-grid">
-    <div class="card">
+  <section>
+    <div>
       <h2>Education</h2>
       <ul>
         <li><strong>Jeonnam Science High School</strong> (Mar 2020 – Feb 2022)</li>
         <li><strong>Sunchon Nat’l Univ. Science Edu. Institute</strong> (Mar 2016 – Feb 2019)</li>
       </ul>
     </div>
-    <div class="card">
+    <div>
       <h2>Skills</h2>
       <ul>
         <li>Advanced: C++, Python</li>
@@ -69,7 +69,7 @@ order: 4
         <li>Expertise: Cryptography(General) ZK-SNARKs, STARKs, FHE, Folding Schemes, Data Structures, Algorithms</li>
       </ul>
     </div>
-    <div class="card">
+    <div>
       <h2>Awards &amp; Achievements</h2>
       <ul>
         <li>EthCon Korea 2023: Open Track 2위, PSE Sponsor Track 1위</li>
@@ -78,7 +78,7 @@ order: 4
         <li>Korean Informatics Olympiad (Middle) Bronze (Jul 2019)</li>
       </ul>
     </div>
-    <div class="card">
+    <div>
       <h2>Languages</h2>
       <ul>
         <li>English: Fluent (TOEFL 118, TOEIC 990)</li>
