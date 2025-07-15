@@ -33,7 +33,7 @@ order: 4
     <div>
       <h3>Alpha273 – Development Team</h3>
       <div>Aug 2024 – Sep 2024</div>
-      <p>REST API 기반 아비트라지 시스템 설계·테스트</p>
+      <p>REST API 기반 아비트라지 시스템 설계 · 테스트</p>
     </div>
     <div>
       <h3>SCVSoft – Developer</h3>
