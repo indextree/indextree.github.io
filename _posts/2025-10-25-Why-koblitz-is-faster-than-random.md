@@ -11,8 +11,6 @@ image:
   alt: curves
 ---
 
-### — Frobenius 자기사상과 곡선 연산 최적화 이야기
-
 안녕하세요. 오늘은 암호학에서 자주 등장하는 두 종류의 타원곡선—Koblitz 곡선과 일반적인 랜덤 타원곡선(일명 random curve)—이 **왜 scalar multiplication(스칼라 배점)** 연산에서 차이를 보이는가에 대해 이야기해볼까 합니다.
 
 ---
