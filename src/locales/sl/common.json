@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "list": {
+            "home": "Domov",
+            "about": "O projektu",
+            "pages": "Strani",
+            "dynamicRouting": "Dinamično usmerjanje",
+            "subpage-1": "Podstran 1",
+            "subpage-2": "Podstran 2",
+            "blog": "Blog",
+            "pagination": "Paginacija",
+            "contact": "Kontakt"
+        },
+        "languagesText": {
+            "selectLanguage": "Izberi Jezik"
+        },
+        "languages": {
+            "en": "Angleščina",
+            "sl": "Slovenščina"
+        }
+    },
+    "footer": {
+        "description": "Astro i18n Začetni komplet",
+        "name": "Nik Klemenc",
+        "copy": "Avtorske pravice",
+        "made": "Narejeno z {{what}}",
+        "index": "Kazalo"
+    },
+    "pageNotFound": {
+        "head": {
+            "title": "🔍 404",
+            "description": "Ups! Ta stran je šla na dopust"
+        },
+        "title": "🔍 404 - Ups! Ta stran je šla na dopust",
+        "link": "Nazaj na domačo stran"
+    }
+}

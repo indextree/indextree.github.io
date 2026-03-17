@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "list": {
+            "home": "Home",
+            "about": "About",
+            "pages": "Pages",
+            "dynamicRouting": "Dynamic Routing",
+            "subpage-1": "Subpage 1",
+            "subpage-2": "Subpage 2",
+            "blog": "Blog",
+            "pagination": "Pagination",
+            "contact": "Contact"
+        },
+        "languagesText": {
+            "selectLanguage": "Select Language"
+        },
+        "languages": {
+            "en": "English",
+            "sl": "Slovenian"
+        }
+    },
+    "footer": {
+        "description": "Astro i18n Starter Kit",
+        "name": "Nik Klemenc",
+        "copy": "Copyright",
+        "made": "Made with {{what}}",
+        "index": "Table of Contents"
+    },
+    "pageNotFound": {
+        "head": {
+            "title": "🔍 404",
+            "description": "Oops! This page went on vacation"
+        },
+        "title": "🔍 404 - Oops! This page went on vacation",
+        "link": "Back to homepage"
+    }
+}
