@@ -3,6 +3,8 @@
 @theme {
     --color-main: #111111;
     --color-primary: #6c24d8;
+    --font-sans: "D2Coding ligature", "D2Coding", monospace;
+    --font-mono: "D2Coding ligature", "D2Coding", monospace;
 }
 
 body {

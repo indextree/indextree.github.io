@@ -52,6 +52,10 @@ const { meta, title } = Astro.props as Props;
         <meta name="apple-mobile-web-app-title" content="Astro i18n Starter" />
         <link rel="manifest" href="/favicon/site.webmanifest" />
 
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+        <link href="https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-full.css" rel="stylesheet" />
+
         <!-- Basic -->
         <title>{title} // Astro i18n Starter</title>
         <meta name="description" content={meta.description} />
