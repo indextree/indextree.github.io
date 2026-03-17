@@ -1,61 +1,37 @@
 {
     "head": {
         "title": "Domov",
-        "description": "Začetna predloga za Astro z vgrajeno internacionalizacijo in Tailwind CSS",
-        "keywords": "astro, i18n, starter, astro i18n, astro starter, večjezično, večjezična podpora, tailwind css, SEO, optimizirano, hitri razvoj"
+        "description": "Osebni blog Nika Klemenca — UX/UI oblikovalca in front-end razvijalca, ki piše o oblikovanju, tehnologiji in spletu.",
+        "keywords": "Nik Klemenc, osebni blog, UX oblikovanje, UI oblikovanje, front-end razvoj, spletno oblikovanje, oblikovalski sistemi, uporabniška izkušnja"
     },
-    "title": "Astro i18n Starter Projekt",
-    "description": "Začetna predloga (starter) za Astro z večjezično podporo, integracijo Tailwind CSS in optimizirano strukturo za hiter razvoj.",
-    "intro": "Pripravljen projekt z vgrajeno podporo za več jezikov, elegantno zasnovo s Tailwind CSS, SEO optimizacijo in jasno strukturo, ki omogoča hiter začetek razvoja večjezičnih spletnih mest.",
+    "title": "Zdravo, sem Nik Klemenc",
+    "description": "UX/UI oblikovalec in front-end razvijalec, ki ga navdušujejo oblikovalski sistemi, uporabniška izkušnja in sodobni splet.",
+    "intro": "Pišem o oblikovanju, front-end razvoju in idejah, ki oblikujejo digitalni svet. Dobrodošli v mojem kotičku interneta.",
     "features": [
         {
-            "title": "🎯 Osnove in namen",
+            "title": "✍️ O čem pišem",
             "list": [
                 {
-                    "p": "Projekt je zasnovan posebej za ustvarjanje <span>večjezičnih spletnih strani</span> z Astro."
+                    "p": "<span>UX & UI oblikovanje</span> — razmišljanja o uporabniški izkušnji, oblikovanju vmesnikov in oblikovalskih sistemih."
                 },
                 {
-                    "p": "Na <span>podstraneh</span> so primeri in razlaga logike delovanja, kar omogoča enostavno razumevanje in prilagajanje."
+                    "p": "<span>Front-end razvoj</span> — raziskovanje sodobnih spletnih tehnologij, orodij in najboljših praks."
                 },
                 {
-                    "p": "Podpira <span>lokalizacijo URL-jev</span> (npr. pages → sl/strani), kar je ključno za SEO. Privzeti jezik je angleščina, ostali jeziki pa so dostopni prek podstrani (npr. /sl/...)."
-                },
-                {
-                    "p": "Omogoča povezovanje vsebin med jeziki – npr. <span>blog objave</span> so lahko med seboj povezane prek parametra <span>linkedContent</span>, kar zagotavlja konsistentno uporabniško izkušnjo."
+                    "p": "<span>Oblikovanje in tehnologija</span> — stičišče ustvarjalnosti in kode, od orodij AI do novih trendov."
                 }
             ]
         },
         {
-            "title": "⚙️ Ključne lastnosti",
+            "title": "🚀 Zadnje objave",
             "list": [
                 {
-                    "p": "Zgrajeno s sodobnimi spletnimi tehnologijami — starter vsebuje vse, kar potrebujete za <span>hitra</span>, <span>dostopna</span> in <span>večjezična spletna mesta</span>."
+                    "p": "Obiščite <span>Blog</span> in preberite moje najnovejše članke o oblikovanju in razvoju."
                 },
                 {
-                    "p": "Popolna podpora za <span>lokalizacijo URL-jev</span>, kar izboljšuje SEO in uporabniško izkušnjo."
-                },
-                {
-                    "p": "Vključuje najnovejšo verzijo <span>Astro (v5.17)</span> in <span>Tailwind (v4)</span>, s čimer zagotavlja stabilnost in dolgoročno podporo."
-                },
-                {
-                    "p": "Omogoča <span>preklapljanje med jeziki</span> brez izgube konteksta – uporabnik ostane na isti strani ali blog objavi ob spremembi jezika."
-                },
-                {
-                    "p": "Vsebuje najpogostejše primere, ki jih potrebuješ pri gradnji <span>večjezičnih spletnih strani</span> (navigacija, blog, lokalizirani URL-ji, prevodi)."
+                    "p": "Želite stopiti v stik? Obiščite stran <span>Kontakt</span> — vesel se bom vašega sporočila."
                 }
             ]
-        },
-        {
-            "title": "🚀 Začni zdaj",
-            "list": [
-                {
-                    "p": "Celoten projekt je na voljo na <span>GitHubu</span> in ga lahko uporabiš kot osnovo za svoje lastne večjezične projekte."
-                },
-                {
-                    "p": "Več informacij najdeš na straneh <span>O projektu in Strani</span>, kjer so vodiči in primeri za hitro prilagoditev svojim potrebam."
-                }
-            ],
-            "github": "Poglej na GitHub-u"
         }
     ]
 }

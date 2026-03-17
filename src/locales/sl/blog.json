@@ -1,16 +1,16 @@
 {
     "head": {
-        "title": "Spletni Dnevnik",
-        "description": "Primer spletnega dnevnika",
-        "keywords": "spletni dnevnik, članki, objave, oštevilčenje, večjezični blog, Astro blog, spletni razvoj, upravljanje vsebine"
+        "title": "Blog",
+        "description": "Članki Nika Klemenca o UX/UI oblikovanju, front-end razvoju in digitalnem svetu.",
+        "keywords": "blog, članki, UX oblikovanje, UI oblikovanje, front-end razvoj, oblikovalski sistemi, spletni razvoj, Nik Klemenc"
     },
-    "title": "Spletni Dnevnik",
-    "description": "Primer spletnega dnevnika",
-    "descriptionPagination": "Primer oštevilčenih objav na blogu",
+    "title": "Blog",
+    "description": "Razmišljanja o oblikovanju, razvoju in vsem vmes.",
+    "descriptionPagination": "Vse objave na blogu",
     "readMore": "Preberi več",
     "noPosts": "V tem trenutku ni na voljo objav na blogu.",
     "totalPosts": "Skupaj {{count}} objav",
-    "paginationExample": "Primer strani",
+    "paginationExample": "Vse objave",
     "pagination": {
         "label": "Navigacija strani",
         "previous": "Prejšnja",

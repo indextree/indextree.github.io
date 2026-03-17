@@ -3,12 +3,7 @@
         "list": {
             "home": "Home",
             "about": "About",
-            "pages": "Pages",
-            "dynamicRouting": "Dynamic Routing",
-            "subpage-1": "Subpage 1",
-            "subpage-2": "Subpage 2",
             "blog": "Blog",
-            "pagination": "Pagination",
             "contact": "Contact"
         },
         "languagesText": {
@@ -20,7 +15,7 @@
         }
     },
     "footer": {
-        "description": "Astro i18n Starter Kit",
+        "description": "Personal blog by Nik Klemenc",
         "name": "Nik Klemenc",
         "copy": "Copyright",
         "made": "Made with {{what}}",

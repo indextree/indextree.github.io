@@ -2,13 +2,8 @@
     "menu": {
         "list": {
             "home": "Domov",
-            "about": "O projektu",
-            "pages": "Strani",
-            "dynamicRouting": "Dinamično usmerjanje",
-            "subpage-1": "Podstran 1",
-            "subpage-2": "Podstran 2",
+            "about": "O meni",
             "blog": "Blog",
-            "pagination": "Paginacija",
             "contact": "Kontakt"
         },
         "languagesText": {
@@ -20,7 +15,7 @@
         }
     },
     "footer": {
-        "description": "Astro i18n Začetni komplet",
+        "description": "Osebni blog Nika Klemenca",
         "name": "Nik Klemenc",
         "copy": "Avtorske pravice",
         "made": "Narejeno z {{what}}",
