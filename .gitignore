@@ -17,8 +17,9 @@ pnpm-debug.log*
 .env
 .env.production
 
-# macOS-specific files
-.DS_Store
+# npm lock file (project uses pnpm)
+package-lock.json
+
 
 # jetbrains setting folder
 .idea/
