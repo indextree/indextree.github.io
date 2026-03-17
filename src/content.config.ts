@@ -19,6 +19,15 @@ const blogCollection = defineCollection({
             linkedContent: z.string().optional(),
             image: image(),
             imageAlt: z.string().optional(),
+            attachments: z
+                .array(
+                    z.object({
+                        name: z.string(),
+                        file: z.string(),
+                        size: z.string().optional(),
+                    })
+                )
+                .optional(),
         }),
 });
 
@@ -30,7 +39,7 @@ const authors = defineCollection({
             image: image(),
             position: z.object({
                 en: z.string(),
-                sl: z.string(),
+                ko: z.string(),
             }),
         }),
 });

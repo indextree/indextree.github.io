@@ -21,5 +21,8 @@
         "noNextPage": "No next page available",
         "currentPage": "Current page {{page}}",
         "pageOf": "Page {{current}} of {{lastPage}}"
+    },
+    "attachments": {
+        "title": "Attachments"
     }
 }

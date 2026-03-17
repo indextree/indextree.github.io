@@ -5,6 +5,8 @@ import { getCollection, render } from "astro:content";
 import Base from "@layouts/Base.astro";
 import { Image } from "astro:assets";
 import { formatDate } from "@utils/utils";
+import Attachments from "@components/Attachments.astro";
+import { useTranslations } from "@i18n/utils";
 import "@styles/markdown.css";
 
 // Get current language from URL and generate paths for each blog post
@@ -16,7 +18,7 @@ export const getStaticPaths = (async () => {
     // Define language configurations
     const langConfigs = {
         en: { prefix: "en/", blogPath: "/blog" },
-        sl: { prefix: "sl/", blogPath: "/sl/spletni-dnevnik" },
+        ko: { prefix: "ko/", blogPath: "/ko/블로그" },
     };
 
     // Create paths for each post in each language
@@ -48,10 +50,11 @@ export const getStaticPaths = (async () => {
 }) satisfies GetStaticPaths;
 
 // Props
-const { post, author } = Astro.props;
+const { post, lang, author } = Astro.props;
 
 // Render the MD content of the blog post
 const { Content } = await render(post);
+const t = useTranslations(lang);
 ---
 
 <Base
@@ -120,6 +123,12 @@ const { Content } = await render(post);
             <section id="md-content" role="main">
                 <Content />
             </section>
+
+            <!--File Attachments-->
+            <Attachments
+                attachments={post.data.attachments}
+                title={t("blog:attachments.title")}
+            />
         </article>
     </section>
 </Base>

@@ -187,7 +187,7 @@ async function findContentGroup(collectionId: string): Promise<string | null> {
  * Checks if route is a blog route in any language
  */
 function isBlogRoute(route: string): boolean {
-    return route === "blog" || route === "spletni-dnevnik";
+    return route === "blog" || route === "블로그";
 }
 
 /**

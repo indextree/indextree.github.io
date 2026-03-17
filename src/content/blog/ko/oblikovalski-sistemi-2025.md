@@ -1,16 +1,16 @@
 ---
-title: "Oblikovalski sistemi leta 2025: onkraj skladnosti"
+title: "2025년 디자인 시스템: 일관성을 넘어서"
 linkedContent: "design-systems-2025"
 
-description: "Kako se oblikovalski sistemi razvijajo iz statičnih smernic v dinamične, z UI podprte ekosisteme, ki spodbujajo inovacije izdelkov."
-keywords: "oblikovalski sistemi, design systems, UI komponente, oblikovalski žetoni, UI/UX, DevOps oblikovanje, dinamični žetoni, oblikovalska skladnost, produkcijski sistemi, oblikovalska avtomatizacija"
+description: "디자인 시스템이 정적 가이드라인에서 AI 기반의 동적 생태계로 어떻게 진화하고 있는지 살펴봅니다."
+keywords: "디자인 시스템, UI 컴포넌트, 디자인 토큰, 컴포넌트 라이브러리, 디자인 일관성, 제품 디자인, UX 디자인"
 
 author: "Nik Klemenc"
 pubDate: 2025-04-02
 isDraft: false
 
 image: "@blogImages/image-3.png"
-imageAlt: "Ilustracija komponent oblikovalskega sistema"
+imageAlt: "디자인 시스템 컴포넌트 일러스트"
 ---
 
 ## Uvod

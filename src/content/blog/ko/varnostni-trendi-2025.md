@@ -1,16 +1,16 @@
 ---
-title: "Glavni varnostni trendi za leto 2025"
+title: "2025년 주요 보안 트렌드"
 linkedContent: "security-trends-2025"
 
-description: "Poglobljeno raziskovanje kibernetskih varnostnih izzivov in rešitev, ki opredeljujejo digitalno pokrajino leta 2025."
-keywords: "kibernetska varnost, varnostni trendi, kibernetski napadi, UI varnost, phishing, ničelno zaupanje, varnost v oblaku, kibernetske grožnje, varnost 2025, digitalna varnost"
+description: "2025년 디지털 환경을 정의하는 사이버 보안 과제와 솔루션을 심층적으로 탐구합니다."
+keywords: "사이버 보안, 보안 트렌드, 사이버 공격, AI 보안, 피싱, 제로 트러스트, 클라우드 보안, 사이버 위협, 보안 2025, 디지털 보안"
 
 author: "Nik Klemenc"
 pubDate: 2025-03-05
 isDraft: false
 
 image: "@blogImages/image-2.png"
-imageAlt: "Ilustracija kibernetske varnostne ključavnice"
+imageAlt: "사이버 보안 자물쇠 일러스트"
 ---
 
 ## Uvod

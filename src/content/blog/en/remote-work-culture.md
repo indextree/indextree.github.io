@@ -11,6 +11,14 @@ isDraft: false
 
 image: "@blogImages/image-4.png"
 imageAlt: "Illustration of people working remotely"
+
+attachments:
+  - name: "Remote Work Policy Template"
+    file: "/attachments/remote-work-policy.pdf"
+    size: "245 KB"
+  - name: "Hybrid Work Survey Results"
+    file: "/attachments/hybrid-survey-results.xlsx"
+    size: "1.2 MB"
 ---
 
 ## Introduction

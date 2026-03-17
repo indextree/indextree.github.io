@@ -1,16 +1,16 @@
 ---
-title: "UI v izobraževanju: preoblikovanje učnih izkušenj"
+title: "교육 분야의 AI: 학습 경험의 변혁"
 linkedContent: "ai-in-education"
 
-description: "Kako umetna inteligenca spreminja način poučevanja, učenja in vrednotenja znanja v učilnicah in zunaj njih."
-keywords: "umetna inteligenca, izobraževalna tehnologija, UI v učilnici, strojno učenje, izobraževalna UI, personalizirano učenje, EdTech, digitalna transformacija"
+description: "인공지능이 교실 안팩에서 교육, 학습, 평가 방식을 어떻게 변화시키고 있는지 살펴봅니다."
+keywords: "인공지능, 교육 기술, AI 교실, 머신러닝, 교육용 AI, 개인화 학습, EdTech, 디지털 트랜스포메이션"
 
 author: "Nik Klemenc"
 pubDate: 2025-07-22
 isDraft: false
 
 image: "@blogImages/image-6.png"
-imageAlt: "Študenti se učijo z UI orodji"
+imageAlt: "AI 도구로 학습하는 학생들"
 ---
 
 ## Uvod

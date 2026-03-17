@@ -1,22 +1,22 @@
 ---
-title: "Kultura oddaljenega dela: uspevanje v hibridni eri"
+title: "원격 근무 문화: 하이브리드 시대의 성장"
 linkedContent: "remote-work-culture"
 
-description: "Poglobljen pogled na to, kako oddaljeni in hibridni delovni modeli oblikujejo organizacijsko kulturo in dobro počutje zaposlenih."
-keywords: "oddaljeno delo, hibridno delo, delo od doma, organizacijska kultura, dobro počutje zaposlenih, komunikacija ekipe, produktivnost, izgorelost, upravljanje ekip, prihodnost dela"
+description: "원격 및 하이브리드 근무 모델이 조직 문화와 직원 복지를 어떻게 형성하고 있는지 심층적으로 살펴봅니다."
+keywords: "원격 근무, 하이브리드 근무, 근무 문화, 직원 복지, 조직 문화, 분산 팀, 워라이프 밸런스, 디지털 작업 환경"
 
 author: "Nik Klemenc"
 pubDate: 2025-05-10
 isDraft: false
 
 image: "@blogImages/image-4.png"
-imageAlt: "Ilustracija ljudi, ki delajo oddaljeno"
+imageAlt: "원격 근무하는 사람들 일러스트"
 
 attachments:
-  - name: "Predloga pravilnika za oddaljeno delo"
+  - name: "원격 근무 정책 템플릿"
     file: "/attachments/remote-work-policy.pdf"
     size: "245 KB"
-  - name: "Rezultati ankete o hibridnem delu"
+  - name: "하이브리드 근무 설문 결과"
     file: "/attachments/hybrid-survey-results.xlsx"
     size: "1.2 MB"
 ---

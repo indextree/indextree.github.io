@@ -1,0 +1,28 @@
+{
+    "head": {
+        "title": "블로그",
+        "description": "블로그 페이지 예시",
+        "keywords": "블로그, 기사, 게시물, 페이지네이션, 다국어 블로그, Astro 블로그, 웹 개발, 콘텐츠 관리"
+    },
+    "title": "블로그",
+    "description": "블로그 게시물 예시",
+    "descriptionPagination": "페이지네이션된 블로그 게시물 예시",
+    "readMore": "더 읽기",
+    "noPosts": "현재 블로그 게시물이 없습니다.",
+    "totalPosts": "총 {{count}}개의 게시물",
+    "paginationExample": "페이지네이션 예시",
+    "pagination": {
+        "label": "페이지 네비게이션",
+        "previous": "이전",
+        "next": "다음",
+        "previousPage": "이전 페이지로 이동",
+        "nextPage": "다음 페이지로 이동",
+        "noPreviousPage": "이전 페이지 없음",
+        "noNextPage": "다음 페이지 없음",
+        "currentPage": "현재 페이지 {{page}}",
+        "pageOf": "{{lastPage}}페이지 중 {{current}}페이지"
+    },
+    "attachments": {
+        "title": "첨부파일"
+    }
+}

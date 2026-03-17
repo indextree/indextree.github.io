@@ -21,5 +21,8 @@
         "noNextPage": "Ni naslednje strani",
         "currentPage": "Trenutna stran {{page}}",
         "pageOf": "Stran {{current}} od {{lastPage}}"
+    },
+    "attachments": {
+        "title": "Priloge"
     }
 }

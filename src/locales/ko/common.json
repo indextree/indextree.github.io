@@ -1,0 +1,32 @@
+{
+    "menu": {
+        "list": {
+            "home": "홈",
+            "about": "소개",
+            "blog": "블로그",
+            "contact": "문의"
+        },
+        "languagesText": {
+            "selectLanguage": "언어 선택"
+        },
+        "languages": {
+            "en": "영어",
+            "ko": "한국어"
+        }
+    },
+    "footer": {
+        "description": "Astro i18n Starter Kit",
+        "name": "Nik Klemenc",
+        "copy": "저작권",
+        "made": "{{what}}(으)로 제작",
+        "index": "목차"
+    },
+    "pageNotFound": {
+        "head": {
+            "title": "🔍 404",
+            "description": "이런! 이 페이지는 휴가를 떠났어요"
+        },
+        "title": "🔍 404 - 이런! 이 페이지는 휴가를 떠났어요",
+        "link": "홈으로 돌아가기"
+    }
+}

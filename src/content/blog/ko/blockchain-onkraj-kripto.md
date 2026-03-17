@@ -1,16 +1,16 @@
 ---
-title: "Blockchain onkraj kripto: resnične aplikacije v letu 2025"
+title: "블록체인, 암호화폐를 넘어서: 2025년 실제 응용 사례"
 linkedContent: "blockchain-beyond-crypto"
 
-description: "Raziskovanje, kako blockchain presega kriptovalute in preoblikuje industrije, kot so zdravstvo, logistika in digitalna identiteta."
-keywords: "blockchain tehnologija, blockchain aplikacije, blockchain zdravstvo, dobavne verige, digitalna identiteta, blockchain rešitve, blockchain 2025, blockchain industrije, blockchain varnost, blockchain transparentnost"
+description: "블록체인이 암호화폐를 넘어 의료, 물류, 디지털 신원 등 다양한 산업을 어떻게 변화시키고 있는지 살펴봅니다."
+keywords: "블록체인 기술, 블록체인 응용, 블록체인 의료, 공급망, 디지털 신원, 블록체인 솔루션, 블록체인 2025, 블록체인 보안, 블록체인 투명성"
 
 author: "Nik Klemenc"
 pubDate: 2025-06-14
 isDraft: false
 
 image: "@blogImages/image-5.png"
-imageAlt: "Vizualizacija blockchain omrežja"
+imageAlt: "블록체인 네트워크 시각화"
 ---
 
 ## Uvod

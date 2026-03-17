@@ -3,12 +3,7 @@
         "list": {
             "home": "Home",
             "about": "About",
-            "pages": "Pages",
-            "dynamicRouting": "Dynamic Routing",
-            "subpage-1": "Subpage 1",
-            "subpage-2": "Subpage 2",
             "blog": "Blog",
-            "pagination": "Pagination",
             "contact": "Contact"
         },
         "languagesText": {
@@ -16,7 +11,7 @@
         },
         "languages": {
             "en": "English",
-            "sl": "Slovenian"
+            "ko": "Korean"
         }
     },
     "footer": {

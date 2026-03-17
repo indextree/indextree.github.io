@@ -1,16 +1,16 @@
 ---
-title: "Prihodnost UX oblikovanja v digitalno-prvem svetu"
+title: "디지털 퍼스트 세계에서의 UX 디자인의 미래"
 linkedContent: "future-of-ux-design"
 
-description: "Raziskovanje trendov in inovacij, ki oblikujejo prihodnost UX oblikovanja, od potopljivih vmesnikov do personalizacije, ki jo poganja UI."
-keywords: "UX oblikovanje, uporabniška izkušnja, UI oblikovanje, personalizacija, AR VR oblikovanje, potopljive tehnologije, UI trendi, digitalno oblikovanje, UX prihodnost, oblikovalski trendi"
+description: "몰입형 인터페이스부터 AI 기반 개인화까지, UX 디자인의 미래를 형성하는 트렌드와 혁신을 탐구합니다."
+keywords: "UX 디자인, 사용자 경험, UI 디자인, 개인화, AR VR 디자인, 몰입형 기술, AI 트렌드, 디지털 디자인, UX 미래"
 
 author: "Nik Klemenc"
 pubDate: 2025-02-12
 isDraft: false
 
 image: "@blogImages/image-1.png"
-imageAlt: "Abstraktni maketa UI oblikovanja"
+imageAlt: "UI 디자인 추상 목업"
 ---
 
 ## Uvod
