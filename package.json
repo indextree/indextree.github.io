@@ -6,12 +6,12 @@
     "description": "Multilingual Astro starter with URL localization and i18n support",
     "author": {
         "name": "Nik Klemenc",
-        "url": "https://klemenc.si"
+        "url": "https://indextree.dev"
     },
-    "homepage": "https://klemenc.si",
+    "homepage": "https://indextree.dev",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Scorpio3310/astro-i18n-starter"
+        "url": "https://github.com/indextree/indextree.github.io"
     },
     "license": "MIT",
     "keywords": [
