@@ -29,15 +29,10 @@ const translatePath = useTranslatedPath(lang);
         <a
             href={translatePath("/")}
             class="logo"
-            aria-label={t("main.title")}
+            aria-label="Changmin's Blog"
             tabindex="0"
         >
-            <Image
-                src={logo}
-                alt={t("main.title")}
-                loading="eager"
-                width={100}
-            />
+            <span style="font-family: Courier, monospace; font-size: 1.25rem; font-weight: bold; white-space: nowrap;">Changmin's Blog</span>
         </a>
 
         <label for="mobile-menu-toggle" class="mobile-menu-toggle">

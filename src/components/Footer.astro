@@ -21,20 +21,7 @@ const currentYear = new Date().getFullYear();
 <footer role="contentinfo" aria-labelledby="footer-title">
     <div class="container">
         <div>
-            <a
-                href={translatePath("/")}
-                aria-label={`${t("main.title")} - ${t("footer.backToHome")}`}
-                tabindex="0"
-            >
-                <Image
-                    src={logo}
-                    alt={t("main.title")}
-                    width={100}
-                    class="mb-3 mx-auto hover:opacity-50"
-                    loading="eager"
-                />
-            </a>
-            <p>{t("footer.description")}</p>
+            <p class="font-bold" style="font-family: Courier, monospace; font-size: 1.25rem;">Changmin's Blog</p>
         </div>
 
         <nav aria-label="Footer navigation">

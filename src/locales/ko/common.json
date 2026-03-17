@@ -16,7 +16,7 @@
     },
     "footer": {
         "description": "Astro i18n Starter Kit",
-        "name": "Nik Klemenc",
+        "name": "Changmin Cho",
         "copy": "저작권",
         "made": "{{what}}(으)로 제작",
         "index": "목차"
