@@ -2,7 +2,6 @@
 // Imports
 import { useTranslations } from "@i18n/utils";
 import Base from "@layouts/Base.astro";
-import Info from "@/components/Info.astro";
 
 // Static paths for contact page
 export function getStaticPaths() {
@@ -28,7 +27,6 @@ const t = useTranslations(lang);
 >
     <section aria-labelledby="contact-title">
         <h1 id="contact-title">{t("contact:title")}</h1>
-        <Info lang={lang} message={t("contact:unlocalized")} />
 
         <form
             name="Contact Form"
