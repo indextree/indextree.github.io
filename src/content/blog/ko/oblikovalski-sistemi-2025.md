@@ -5,7 +5,7 @@ linkedContent: "design-systems-2025"
 description: "디자인 시스템이 정적 가이드라인에서 AI 기반의 동적 생태계로 어떻게 진화하고 있는지 살펴봅니다."
 keywords: "디자인 시스템, UI 컴포넌트, 디자인 토큰, 컴포넌트 라이브러리, 디자인 일관성, 제품 디자인, UX 디자인"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2025-04-02
 isDraft: false
 

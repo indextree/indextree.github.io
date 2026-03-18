@@ -5,7 +5,7 @@ linkedContent: "security-trends-2025"
 description: "2025년 디지털 환경을 정의하는 사이버 보안 과제와 솔루션을 심층적으로 탐구합니다."
 keywords: "사이버 보안, 보안 트렌드, 사이버 공격, AI 보안, 피싱, 제로 트러스트, 클라우드 보안, 사이버 위협, 보안 2025, 디지털 보안"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2025-03-05
 isDraft: false
 

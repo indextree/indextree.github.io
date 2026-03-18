@@ -5,7 +5,7 @@ linkedContent: "file-attachments-guide"
 description: "A practical guide on how to use file attachments in blog posts, with downloadable templates and examples."
 keywords: "file attachments, blog features, download, templates, documents, PDF, spreadsheet"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2026-03-17
 isDraft: false
 

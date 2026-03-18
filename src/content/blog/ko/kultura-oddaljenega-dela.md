@@ -5,7 +5,7 @@ linkedContent: "remote-work-culture"
 description: "원격 및 하이브리드 근무 모델이 조직 문화와 직원 복지를 어떻게 형성하고 있는지 심층적으로 살펴봅니다."
 keywords: "원격 근무, 하이브리드 근무, 근무 문화, 직원 복지, 조직 문화, 분산 팀, 워라이프 밸런스, 디지털 작업 환경"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2025-05-10
 isDraft: false
 

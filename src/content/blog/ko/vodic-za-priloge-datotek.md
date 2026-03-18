@@ -5,7 +5,7 @@ linkedContent: "file-attachments-guide"
 description: "블로그 게시물에서 첨부파일 기능을 사용하는 실용적인 가이드입니다. 다운로드 가능한 템플릿과 예제를 포함합니다."
 keywords: "첨부파일, 블로그 기능, 다운로드, 템플릿, 문서, PDF, 스프레드시트"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2026-03-17
 isDraft: false
 

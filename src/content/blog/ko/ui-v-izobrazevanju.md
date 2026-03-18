@@ -5,7 +5,7 @@ linkedContent: "ai-in-education"
 description: "인공지능이 교실 안팩에서 교육, 학습, 평가 방식을 어떻게 변화시키고 있는지 살펴봅니다."
 keywords: "인공지능, 교육 기술, AI 교실, 머신러닝, 교육용 AI, 개인화 학습, EdTech, 디지털 트랜스포메이션"
 
-author: "Nik Klemenc"
+author: "Changmin Cho"
 pubDate: 2025-07-22
 isDraft: false
 
