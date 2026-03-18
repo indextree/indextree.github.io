@@ -89,7 +89,7 @@ export async function switchLanguageUrl(
     currentUrl: URL,
     targetLang: string
 ): Promise<string> {
-    const pathname = currentUrl.pathname;
+    const pathname = decodeURIComponent(currentUrl.pathname);
     const pathParts = pathname.split("/").filter((p) => p);
 
     // Remove current language prefix if exists
