@@ -1,0 +1,31 @@
+---
+title: "Countless Wounds and Oblivion"
+linkedContent: "countless-wound-and-oblivion"
+
+description: "My personal reflections about my life journey."
+keywords: "Diary"
+
+author: "Changmin Cho"
+pubDate: 2025-07-22
+isDraft: false
+
+image: "@blogImages/image-1.png"
+imageAlt: "Hometown"
+---
+
+## Introduction
+
+The shame that remains deep in my heart comes from wounds. To speak about something this deep, I seem to need words that at least sound convincing. The many wounds of my childhood destroyed me. I gave up, long ago, on the ordinary hope that I should at least not hurt other people. A psychological assessment once described me as a selfish person. Maybe that is true. Maybe it is right. The nature I have dressed up in plausible words does not seem to explain anything about me. I am writing this very impulsively, but perhaps that, too, is a good description of who I am. First, I would like to thank *Circle of Life*, the song that helped me write this post, and the domain indextree.dev. I also want to thank the author of the blog template. And I want to thank the many people who have helped me stay alive until now.
+
+## Childhood
+
+I was a strange child. I had difficulty listening to others. I found it hard to build relationships beyond a few close friends. Perhaps that was because of my parents’ closed-off personalities. I practiced piano diligently, and I studied mathematics with equal intensity. There was immense pressure on me to do well in school. Even so, there were always children who did better than I did. In that sense, I was not such a special child after all. When I was young, my parents often fought, and I was frequently beaten by my mother when she was caught in emotional turmoil and had been drinking. She no longer remembers those times now, but I remember them clearly. I was beaten a great deal. I went through severe experiences that bordered on child abuse—being kicked, being beaten with a stick hundreds of times, being stripped naked and driven outside. If what I felt was real, then I had already been suffering from something like depression from around the age of ten, by Korean reckoning, and as I write this, I find myself crying. It was around then that I began to feel that I was the only one who could protect myself. That was when I lost the ability to feel emotions, and even now, I still do not know how to feel them. I gradually got better after meeting a good teacher, but even now I feel that, in the end, I still have to find the answer on my own. I probably could not study properly during that time. I did achieve some good results, but never the very best ones. Olympiads would be one example. I went on to attend a science high school, but my grades did not turn out as well as expected. The reason was my worsening depression. I could study only one or two hours a day, and every night I would wander the hallways thinking about how much I wanted to die, even imagining concrete ways to do it. It is a black-hole-like memory. The terrifying thing about depression is that it lets you feel that terror only gradually, pulling you deeper and deeper into its whirlpool. Like a drug. You cannot escape it alone. I went to a psychiatrist, but my parents treated psychiatric medication as though it were something satanic, and it took far too long before I was able to receive proper treatment.
+
+## Youth
+
+I failed the college entrance process, and I will not go into the details of that. I graduated by sheer luck. That, too, was thanks to good teachers. There were teachers around me who truly supported me, and there were also teachers who, in some ways, blocked part of my path ahead, but I believe they all acted with good intentions. After that, I was able to begin building a career thanks to a good person who gave me that first foothold. At times I resent them, but they are someone for whom I will always be grateful in my life. Later, I was diagnosed with Bipolar I Disorder at a university hospital and was exempted from military service. I am on a high dosage of medication, and apart from the dark story I have written here, I have managed to maintain a career that appears normal from the outside. Fortunately, I feel that my symptoms are gradually improving, and that the rational abilities I once damaged are also slowly recovering through my steady efforts. By luck, I was accepted into a program created by PSE, where I am studying cryptography, and I am now working in a related field.
+
+## Wounds and Forgetting
+
+People live while carrying countless wounds. Even those who seem to live such uneventful, ordinary lives often turn out, once you know their stories, to be carrying struggles of their own. But memory beautifies things. Even painful memories become beautiful with time, transformed into something we say of lightly—*that was how it was back then*. The memories I still cannot forgive are probably the ones I cannot accept because I have not yet embraced the person I was in those days. Thankfully, my life seems to get better as time goes on. Perhaps one day I, too, will be able to forgive my past self and live without being trapped by memory. Even now, I feel afraid when I ride in my parents’ car. That may also be why I cannot drive. I worry about whether I have enough money in my account to take a taxi, whether my parents might throw me out halfway and leave me there, whether they might suddenly crash into something. And yet I believe this: I have continued to grow, and I have continued to endure. I believe that everyone reading this carries at least one wound in their heart. And I hope that one day you, too, will find a time when you can forgive those wounds. Even if that day never comes, wounds still make people grow. Little by little, they make us more neutral, more embracing. They help us understand more people, and forgive more people. And above all, please do not fall into the swamp of depression. As I said, depression is like a drug; it drags you into an endless mire. Please have deep conversations with people you can trust, and seek help from a professional. If forgetting is the best choice, then I hope you are able to forget. And even if it is not, I still hope that what you dream of will come true. To everyone reading this: I hope you find happiness.
+
