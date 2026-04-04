@@ -48,7 +48,7 @@ hr {
 
 p,
 li {
-    span {
+    > span:not(.katex) {
         @apply bg-primary/10 px-1 py-1 font-medium rounded-md;
     }
 }

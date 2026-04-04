@@ -1,12 +1,12 @@
 {
     "head": {
         "title": "블로그",
-        "description": "블로그 페이지 예시",
+        "description": "블로그 페이지 예시입니다.",
         "keywords": "블로그, 기사, 게시물, 페이지네이션, 다국어 블로그, Astro 블로그, 웹 개발, 콘텐츠 관리"
     },
     "title": "블로그",
-    "description": "블로그 게시물 예시",
-    "descriptionPagination": "페이지네이션된 블로그 게시물 예시",
+    "description": "블로그 게시물 예시입니다.",
+    "descriptionPagination": "페이지네이션된 블로그 게시물 예시입니다.",
     "readMore": "더 읽기",
     "noPosts": "현재 블로그 게시물이 없습니다.",
     "totalPosts": "총 {{count}}개의 게시물",

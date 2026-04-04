@@ -1,11 +1,11 @@
 {
     "head": {
         "title": "홈",
-        "description": "다국어 지원 및 Tailwind CSS가 내장된 Astro 스타터 템플릿",
+        "description": "다국어 지원 및 Tailwind CSS가 내장된 Astro 스타터 템플릿입니다.",
         "keywords": "astro, i18n, 스타터, astro i18n, astro 스타터, 다국어, 다국어 지원, tailwind css, SEO, 최적화, 빠른 개발"
     },
     "title": "Astro i18n 스타터 프로젝트",
-    "description": "다국어 지원, Tailwind CSS 통합, 빠른 개발을 위한 최적화된 구조를 갖춘 Astro 스타터 템플릿.",
+    "description": "다국어 지원, Tailwind CSS 통합, 빠른 개발을 위한 최적화된 구조를 갖춘 Astro 스타터 템플릿입니다.",
     "intro": "다국어 지원, Tailwind CSS를 활용한 세련된 디자인, SEO 최적화, 그리고 다국어 웹사이트 구축을 빠르게 시작할 수 있는 명확한 구조를 갖춘 프로젝트입니다.",
     "features": [
         {

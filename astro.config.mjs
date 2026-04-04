@@ -4,10 +4,17 @@ import mdx from "@astrojs/mdx";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://indextree.dev",
+
+  markdown: {
+      remarkPlugins: [remarkMath],
+      rehypePlugins: [rehypeKatex],
+  },
 
   integrations: [
       mdx(),
